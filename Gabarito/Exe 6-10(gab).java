@@ -1,7 +1,7 @@
-// 6. Usando Break
-// Crie um programa que mostre um loop de 0 a 4 e dê um break quando o valor for 5
-// quando isso acontecer mostre ao o usuário uma mensagem 
-// utilize o laço for 
+// 6. Usando break
+// Crie um programa que mostre um loop de 0 a 4 e interrompa (break) quando o valor for 5
+// Quando isso acontecer, mostre uma mensagem ao usuário
+// Utilize o laço for
    
    public class UsandoBreak {
     public static void main(String[] args) {
@@ -19,8 +19,8 @@
 
 
 // 7. Usando continue
-// crie um loop de 0 até 9
-// quando o valor for 5 mostre uma mensagem "Continue e pule para o próximo loop"
+// Crie um loop de 0 até 9
+// Quando o valor for 5, mostre a mensagem "Continue e pule para o próximo loop"
 
 
 
@@ -66,6 +66,7 @@ Resposta : 2
 
 // 9. Teste de Mesa (2)
 // Mostre a saída final do código
+
 public class Principal {
     public static void main(String[] args) {
         int x = 0;
@@ -96,6 +97,7 @@ Resposta : 8,2
 // 10. Teste de Mesa (2)
 // Mostre a saída final do código
 
+
 public class Principal {
     public static void main(String[] args) {
         int x = 0;
@@ -117,7 +119,7 @@ public class Principal {
 | 2     | 2   | 0   | 1   | 2,0           |
 | 3     | 3   | 1   | 2   | 3,1           |
 | 4     | 4   | 2   | 3   | 4,2           |
-| 5     | 5   | 3   | 4   | 5,3 (final)   |
+| 5     | 6   | 3   | 5   | 6,3 (final)   |
 
 
-Resposta : 5,3
+Resposta : 6,3

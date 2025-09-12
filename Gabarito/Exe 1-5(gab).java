@@ -1,6 +1,6 @@
-// 1. Monstre uma mensagem
+// 1. Mostrar uma mensagem
 // Utilize a estrutura base do Java
-// Use as boas práticas(sempre iniciar nome de classe com letra maiuscula )
+// Use boas práticas (sempre iniciar o nome da classe com letra maiúscula)
 
 public class Mensagem {
     public static void main(String[] args) {
@@ -10,11 +10,11 @@ public class Mensagem {
 
 
 // 2. Procurando o número
-// contrua um programa em que o
+// Construa um programa em que o
 // usuário tem que adivinhar o número
 // número = 42
-// utilize a estrutura if e else 
-// informe se o usuário está perto ou não do número
+// Utilize a estrutura if e else 
+// Informe se o usuário está perto ou não do número
 // Utilize JOptionPane
 import javax.swing.JOptionPane;
 
@@ -38,11 +38,10 @@ public class ProcurarNumero {
 
 
 
-// 3. Idade e pagemento
-// Contrua um programa que cheque se o usuário fez ou não o pagamento e se é maior de idade
-// idade = 18
-// informe se o acesso foi ou não liberado
-
+// 3. Idade e pagamento
+// Construa um programa que verifique se o usuário fez o pagamento e se é maior de idade
+// Idade mínima = 18
+// Informe se o acesso foi ou não liberado 
 public class IdadePagamento {
     public static void main(String[] args) {
         int idade = 18;
@@ -58,9 +57,9 @@ public class IdadePagamento {
 
 
 
-// 4. Monstrar números de 1 a 10 
-// Use a instrução System.out.println(1);
-// Use for ou while 
+// 4. Mostrar os números de 1 a 10 
+// Use a instrução System.out.println();
+// Use for ou while
 
 public class NumerosForWhile {
     public static void main(String[] args) {
@@ -84,8 +83,8 @@ public class NumerosForWhile {
 
 
 // 5. Mostrar os números de 1 a 10
-// utilize do while 
-// não esqueca do contador 
+// Utilize do-while
+// Não esqueça do contador
 
 
 public class NumerosDoWhile {
